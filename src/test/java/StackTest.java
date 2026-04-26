@@ -1,5 +1,4 @@
-package org.example;
-
+import org.example.Stack;
 import org.junit.jupiter.api.Test;
 
 import java.util.EmptyStackException;
